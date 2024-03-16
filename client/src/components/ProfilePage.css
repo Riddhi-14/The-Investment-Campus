@@ -1,0 +1,44 @@
+/* ProfilePage.css */
+
+.profile-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .profile-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .profile-container h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .profile-container p {
+    margin-bottom: 10px;
+  }
+  
+  .orders-container,
+  .referrals-container {
+    margin-top: 20px;
+  }
+  
+  .orders-container h3,
+  .referrals-container h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .orders-list,
+  .referrals-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .orders-list li,
+  .referrals-list li {
+    margin-bottom: 5px;
+  }
+  
